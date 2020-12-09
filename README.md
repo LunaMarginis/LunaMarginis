@@ -29,7 +29,7 @@ Beside's tech, its all about &#128247; photography & &#127776;astronomy.</p>
 <br>
 <br>
 <br>
- 👨‍💻 #>_ Findstr /blob/main/website*
+ 👨‍💻 #>_ Findstr /blob/main/html*
  <br>🌐
  <a href="https://lunamarginis.github.io/" rel="nofollow">@LunaMarginis</a>
 <br>
