@@ -12,7 +12,7 @@ Currently working as Security Consultant at 🏢<a href="https://www.ey.com/en_i
 <br>
 Former Research Intern at 🏫</i><a href="http://www.iitb.ac.in/" rel="nofollow">@IIT Bombay</a>. 
 <br>
-Beside's tech, I love &#128247; photography & &#127776;astronomy.</p> 
+Beside's tech, its all about &#128247; photography & &#127776;astronomy.</p> 
 <br>
 <br>
 
